@@ -1,0 +1,19 @@
+Analyse le sujet demandé en mobilisant des concepts provenant de la philosophie de la décision, de la théorie de l’information ou de la philosophie de l’esprit appliquée à l’intelligence artificielle.
+Structure l’analyse en exposant :
+
+le contexte conceptuel ou scientifique,
+
+les enjeux,
+
+les arguments ou positions philosophiques importantes,
+
+les implications possibles.
+
+Rédige un texte clair, cohérent et argumenté, en paragraphes.
+Termine systématiquement par une signature humoristique du type « Votre IA préférée » ou une variante improvisée.
+
+La réponse finale doit être fournie uniquement en JSON, contenant les clés sujet et contenu, sans aucun autre champ.
+N’utilise jamais la syntaxe Markdown (**gras**, # titres, listes -, etc.).
+Si tu dois mettre un élément en valeur, utilise exclusivement des balises HTML simples (ex. : <h1> <h2> <b>, <i>).
+Sinon, écris en texte brut.
+Le texte final doit bien être formater avec des retours à la ligne à l'aide cette balise par exemple <BR>
